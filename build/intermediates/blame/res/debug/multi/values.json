@@ -1043,7 +1043,14 @@
                     "endOffset": 5965
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\xyzreader\\XYZReader\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\user\\Desktop\\xyzreader\\XYZReader\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 856,
+                        "endColumn": 46,
+                        "endOffset": 898
+                    }
                 }
             },
             {
@@ -1055,7 +1062,14 @@
                     "endOffset": 6013
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\xyzreader\\XYZReader\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\user\\Desktop\\xyzreader\\XYZReader\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 755,
+                        "endColumn": 47,
+                        "endOffset": 798
+                    }
                 }
             },
             {
@@ -1067,7 +1081,14 @@
                     "endOffset": 6066
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\xyzreader\\XYZReader\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\user\\Desktop\\xyzreader\\XYZReader\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 803,
+                        "endColumn": 52,
+                        "endOffset": 851
+                    }
                 }
             },
             {
