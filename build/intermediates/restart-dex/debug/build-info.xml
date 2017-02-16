@@ -5,9 +5,9 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="23290209116254"
+    timestamp="23686283336025"
     token="4765110252160460932"
-    verifier="COMPATIBLE" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
@@ -41,8 +41,8 @@
             type="DEX" />
     </build>
     <build
-        timestamp="23290209116254"
-        verifier="COMPATIBLE" >
+        timestamp="23686283336025"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\user\Desktop\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
             type="RESOURCES" />
