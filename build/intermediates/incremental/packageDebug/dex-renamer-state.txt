@@ -1,4 +1,4 @@
-#Thu Feb 16 14:50:28 GST 2017
+#Thu Feb 16 17:42:39 GST 2017
 base.0=C\:\\Users\\user\\Desktop\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d16edc40c8da91e7a3733be83951aa071c526734
 renamed.1=classes.dex
 renamed.0=classes2.dex
