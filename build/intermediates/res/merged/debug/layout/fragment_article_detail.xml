@@ -105,6 +105,7 @@
         android:layout_marginEnd="@dimen/fab_margin"
         android:layout_marginBottom="@dimen/fab_margin"
         android:src="@drawable/ic_share"
-        android:layout_gravity="bottom|end"/>
+        android:layout_gravity="bottom|end"
+        app:layout_behavior="com.example.xyzreader.ScrollAwareFABBehaviour"/>
     </android.support.design.widget.CoordinatorLayout>
 </com.example.xyzreader.ui.DrawInsetsFrameLayout>

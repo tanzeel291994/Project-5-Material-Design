@@ -136,12 +136,12 @@
         "source": "C:\\Users\\user\\Desktop\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "C:\\Users\\user\\Desktop\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
         "merged": "C:\\Users\\user\\Desktop\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_015.png",
         "source": "C:\\Users\\user\\Desktop\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\user\\Desktop\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png",
